@@ -64,6 +64,7 @@ Ya que hay muchas maneras de poder representar un mismo numero con el sistema de
 Se representa de la misma manera que la Mantisa Fraccionaria
 
 Ejemplos:
+
 1. 1000101\, 4 bits Mantisa fraccionaria normalizada BSS, 3 exponente BCS
 $$
 \begin{eqnarray}
@@ -91,6 +92,7 @@ Ya que todas las mantisas normalizadas comienzan con $\color{cyan}0,1$ no es nec
 Ahora todas las mantisas comienzan con $\color{cyan}0,1$ aún cuando la mantisa comienza por 0
 
 Ejemplo:
+
 1. 1000101\. 4 bits Mantisa fraccionaria normalizada con **bit implícito** BSS, 3 exponente BCS
 $$
 \begin{eqnarray}
@@ -99,11 +101,15 @@ $$
 \color{lightgreen}0,75\color{lightgray}*0,5 &=& 0,375
 \end{eqnarray}
 $$
-2. 01100\. 2 bits Mantisa fraccionaria normalizada con **bit implícito** BSS, 3 exponente BSS $$\begin{eqnarray}
+
+2. 01100\. 2 bits Mantisa fraccionaria normalizada con **bit implícito** BSS, 3 exponente BSS
+$$
+\begin{eqnarray}
 +\color{cyan}0,1\color{lightgreen}01\color{lightgray}*2\color{red}^{100} &=& \\
 \color{lightgreen}0,625\color{lightgray}*2\color{red}^4 &=& \\
 \color{lightgreen}0,625\color{lightgray}*16 &=& 10
-\end{eqnarray}$$
+\end{eqnarray}
+$$
 
 ## Rango
 
