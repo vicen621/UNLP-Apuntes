@@ -45,12 +45,12 @@ Cuando el sistema tiene signo el bit del signo se saca de la mantisa y te quedas
 Ejemplos:
 
 1. 1001101\. 4 Bits Mantisa fraccionaria BCS, 3 exponente BCS
-
 $$\begin{eqnarray}
 -\color{cyan}0,\color{lightgreen}001\color{lightgray}*2\color{red}^{101} &=& \\
 -\color{lightgreen}0,125\color{lightgray}*2\color{red}^{-1} &=& \\
 -\color{lightgreen}0,125\color{lightgray}*0,5 &=& -0,0625
 \end{eqnarray}$$
+
 2. 01011010\. 4 Bits Mantisa Fraccionaria BCS, 4 exponente BSS
 
 $$\begin{eqnarray}
@@ -68,12 +68,12 @@ Se representa de la misma manera que la Mantisa Fraccionaria
 Ejemplos:
 
 1. 1000101\. 4 bits Mantisa fraccionaria normalizada BSS, 3 exponente BCS
-
 $$\begin{eqnarray}
 \color{cyan}0,1\color{lightgreen}000\color{lightgray}*2\color{red}^{101} &=& \\
 \color{lightgreen}0,5\color{lightgray}*2\color{red}^{-1} &=& \\
 \color{lightgreen}0,5\color{lightgray}*0,5 &=& 0,25
 \end{eqnarray}$$
+
 2. 0101110\. 4 bits mantisa fraccionaria normalizada BSS, 3 exponente Ca2.
     No se puede representar ya que la mantisa no está normalizada.
 3. 011100\. 4 bits Mantisa fraccionaria normalizada BCS, 2 exponente BSS.
@@ -97,12 +97,12 @@ Ahora todas las mantisas comienzan con $\color{cyan}0,1$ aún cuando la mantisa 
 Ejemplo:
 
 1. 1000101\. 4 bits Mantisa fraccionaria normalizada con **bit implícito** BSS, 3 exponente BCS
-
 $$\begin{eqnarray}
 +\color{cyan}0,1\color{lightgreen}1000\color{lightgray}*2\color{red}^{101} &=& \\
 \color{lightgreen}0,75\color{lightgray}*2\color{red}^{-1} &=& \\
 \color{lightgreen}0,75\color{lightgray}*0,5 &=& 0,375
 \end{eqnarray}$$
+
 2. 01100\. 2 bits Mantisa fraccionaria normalizada con **bit implícito** BSS, 3 exponente BSS
 
 $$\begin{eqnarray}
