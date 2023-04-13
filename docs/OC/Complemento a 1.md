@@ -15,7 +15,7 @@ Los positivos empiezan con 0
 
 ---
 
-## Como representar en este sistema:
+## Como representar en este sistema
 
 Los positivos se representan igual que en el sistema de [[Binario Sin Signo]], por otro lado los negativos se representan dando vuelta los bits del numero positivo.
 
@@ -26,10 +26,9 @@ $-4_{10}=1011_{2\ Ca1}$
 
 Siguiendo esta formula tambien podemos pasar los números: $$Ca1=(2^n-1)-N$$
 $Ca1 = (2^4-1)-(-4) = 7+4)$
-$0111_2 + 0100_2 = 1011_2$ 
+$0111_2 + 0100_2 = 1011_2$
 
 ### Pasos para representar negativos en Ca1
 
 1. Representar el numero en [[Binario Sin Signo]]
 2. Dar vuelta todos los bits
- 

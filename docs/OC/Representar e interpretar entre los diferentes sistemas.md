@@ -2,17 +2,17 @@
 
 ## Indice
 
-1. [Tabla de equivalencias](#Tabla%20de%20equivalencias)
-2. [Binario a Decimal](#Binario%20a%20decimal)
-3. [Hexadecimal a Decimal](#Hexadecimal%20a%20decimal)
-4. [Decimal a Binario](#decimal%20a%20binario)
-	1. [Parte Entera](#parte%20entera)
+1. [Tabla de equivalencias](#Tabla-de-equivalencias)
+2. [Binario a Decimal](#Binario-a-decimal)
+3. [Hexadecimal a Decimal](#Hexadecimal-a-decimal)
+4. [Decimal a Binario](#decimal-a-binario)
+	1. [Parte Entera](#parte-entera)
 		1. [Dividiendo](#dividiendo)
-		2. [Restando potencias de 2](#restando%20potencias%20de%202)
-	2. [Parte Decimal](#parte%20decimal)
-5. [Decimal a Hexadecimal](#decimal%20a%20hexadecimal)
-6. [Binario a Hexadecimal](#binario%20a%20hexadecimal)
-7. [Hexadecimal a Binario](#hexadecimal%20a%20binario)
+		2. [Restando potencias de 2](#restando-potencias-de-2)
+	2. [Parte Decimal](#parte-decimal)
+5. [Decimal a Hexadecimal](#decimal-a-hexadecimal)
+6. [Binario a Hexadecimal](#binario-a-hexadecimal)
+7. [Hexadecimal a Binario](#hexadecimal-a-binario)
 
 ## Tabla de equivalencias
 
@@ -39,14 +39,20 @@
 
 ## Binario a Decimal
 
-En este caso hay que usar el Teorema fundamental de la numeración $$N=\sum_{i=-d}^nX_i*B^i$$
+En este caso hay que usar el Teorema fundamental de la numeración
+$$
+N=\sum_{i=-d}^nX_i*B^i
+$$
 
 Por ejemplo: $10100101_2=1*2^7+0*2^6+1*2^5+0*2^4+0*2^3+1*2^2+0*2^1+1*2^0=165_{10}$
 $1011.011_2=1*2^3+0*2^2+1*2^1+1*2^0+0*2^{-1}+1*2^{-2}+1*2^{-3}=11.375_{10}$
 
 ## Hexadecimal a Decimal
 
-En este caso hay que usar el Teorema fundamental de la numeración $$N=\sum_{i=-d}^nX_i*B^i$$
+En este caso hay que usar el Teorema fundamental de la numeración
+$$
+N=\sum_{i=-d}^nX_i*B^i
+$$
 Por ejemplo: $9F7_{16}=9*16^2+15*16^1+7*16^0=2551_{10}$
 $10.2_{16}=1*16^1+0*16^0+2*16^{-1}=16.125_{10}$
 
@@ -63,7 +69,7 @@ Hay 2 maneras de pasar la parte entera
 En esta manera lo que tenés que hacer es dividir la parte entera entre 2 hasta que el cociente sea 0 y se escriben los restos de atrás para adelante.
 
 Ejemplo:
-![Ejemplo de Decimal a Binario](_assets/DecimalToBinaryEx.png)
+![[_assets/DecimalToBinaryEx.png]]
 
 #### Restando potencias de 2
 
@@ -75,13 +81,12 @@ Ejemplo: $210_{10}=128+64+16+2=11010010_2$
 
 Para pasar la parte decimal es simple, tenés que multiplicar la parte decimal por 2 hasta que la misma sea 0 o se empiece a repetir. Tenes que anotar la parte entera del resultado, una vez lo anotes volves a multiplicar la **parte decimal** por 2 otra vez.
 
-Ejemplo: 
+Ejemplo:
 $0.375_2=0.375*2=0.75*2=1.5*2=1.0$
 $0.375_{10}=0.011_2$
 
 %% TODO %%
 ## Decimal a Hexadecimal
-
 
 ## Binario a Hexadecimal
 

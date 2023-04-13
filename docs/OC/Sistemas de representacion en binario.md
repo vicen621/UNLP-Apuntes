@@ -1,5 +1,6 @@
 # Sistemas de representación en binario
-Los sistemas de representación se usan para representar números en el sistema binario. 
+
+Los sistemas de representación se usan para representar números en el sistema binario.
 
 ## Propiedades
 

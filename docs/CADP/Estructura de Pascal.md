@@ -11,15 +11,15 @@ var {global variable declaration block}
 
 function {function declarations, if any}
 { local variables }
-	begin
-		...
-	end;
+    begin
+        ...
+    end;
 
 procedure { procedure declarations, if any}
 { local variables }
-	begin
-		...
-	end;
+    begin
+        ...
+    end;
 
 var {local variables}
 begin { main program block starts}
@@ -32,13 +32,13 @@ end. { the end of main program block }
 ```pascal
 {function funName(var(s): type; var(s): type): returnType;}
 function func(var1: integer; var2, var3: char): boolean;
-	var {local var}
-		var4: real;
-	begin
-		...
-		{all functions have to end with the name of the function with  a declaration to de return type}
-		func := true; 
-	end;
+    var {local var}
+        var4: real;
+    begin
+        ...
+        {all functions have to end with the name of the function with  a declaration to de return type}
+        func := true; 
+    end;
 ```
 
 ## Estructura de los procedimientos
@@ -46,10 +46,9 @@ function func(var1: integer; var2, var3: char): boolean;
 ```pascal
 {procedure procName(var(s): type; var(s): type);}
 procedure proc(var1: integer; var2, var3: char);
-	var {local var}
-		var3: real;
-	begin
-		...
-	end;
+    var {local var}
+        var3: real;
+    begin
+        ...
+    end;
 ```
-
