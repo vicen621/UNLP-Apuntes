@@ -57,7 +57,6 @@ $$
 -\color{lightgreen}0,125\color{lightgray}*0,5 &=& -0,0625
 \end{eqnarray}
 $$
-
 2. 01011010\. 4 Bits Mantisa Fraccionaria BCS, 4 exponente BSS $$\begin{eqnarray}
 +\color{cyan}0,\color{lightgreen}101\color{lightgray}*2\color{red}^{1010} &=& \\
 \color{lightgreen}0,625\color{lightgray}*2\color{red}^{10} &=& \\
@@ -81,7 +80,6 @@ $$
 \color{lightgreen}0,5\color{lightgray}*0,5 &=& 0,25
 \end{eqnarray}
 $$
-
 2. 0101110\. 4 bits mantisa fraccionaria normalizada BSS, 3 exponente Ca2.
     No se puede representar ya que la mantisa no está normalizada.
 3. 011100\. 4 bits Mantisa fraccionaria normalizada BCS, 2 exponente BSS.
@@ -112,7 +110,6 @@ $$
 \color{lightgreen}0,75\color{lightgray}*0,5 &=& 0,375
 \end{eqnarray}
 $$
-
 2. 01100\. 2 bits Mantisa fraccionaria normalizada con **bit implícito** BSS, 3 exponente BSS
 
 $$
