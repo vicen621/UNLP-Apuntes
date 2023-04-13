@@ -91,9 +91,11 @@ Al primer bit ser el signo, la mantisa si comienza con 1 y se puede representar.
 #### Mantisa fraccionaria normalizada c/ bit implicito
 
 Ya que todas las mantisas normalizadas comienzan con $\color{cyan}0,1$ no es necesario almacenar ese 1, ganando así un bit mas en la mantisa. Con el bit implícito la ecuación final se modifica quedando así de esta manera:  
+
 $$
 \color{cyan}0,1\color{lightgreen}M\color{lightgray}*B\color{red}^2
 $$
+
 Ahora todas las mantisas comienzan con $\color{cyan}0,1$ aún cuando la mantisa comienza por 0
 
 Ejemplo:
