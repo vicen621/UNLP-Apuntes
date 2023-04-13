@@ -19,7 +19,7 @@ $$E=2^{n-1}$$
 
 ### Binario a Decimal
 
-1. Se interpreta el numero en [Binario Sin Signo](Binario-Sin-Signo.md)
+1. Se interpreta el numero en [[Binario Sin Signo]]
 2. Se le resta el Exceso
 
 Ejemplo:
@@ -36,7 +36,7 @@ $$
 ### Decimal a Binario
 
 1. Se le suma el exceso
-2. El resultado se representa en [Binario Sin Signo](Binario-Sin-Signo.md)
+2. El resultado se representa en [[Binario Sin Signo]]
 
 Ejemplo:
 

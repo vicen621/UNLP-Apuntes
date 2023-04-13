@@ -2,14 +2,14 @@
 
 ## Indice
 
-1. [Tabla de equivalencias](#Tabla-de-equivalencias)
-2. [Binario a Decimal](#Binario-a-decimal)
-3. [Hexadecimal a Decimal](#Hexadecimal-a-decimal)
+1. [Tabla de equivalencias](#tabla-de-equivalencias)
+2. [Binario a Decimal](#binario-a-decimal)
+3. [Hexadecimal a Decimal](#hexadecimal-a-decimal)
 4. [Decimal a Binario](#decimal-a-binario)
-	1. [Parte Entera](#parte-entera)
-		1. [Dividiendo](#dividiendo)
-		2. [Restando potencias de 2](#restando-potencias-de-2)
-	2. [Parte Decimal](#parte-decimal)
+    1. [Parte Entera](#parte-entera)
+        1. [Dividiendo](#dividiendo)
+        2. [Restando potencias de 2](#restando-potencias-de-2)
+    2. [Parte Decimal](#parte-decimal)
 5. [Decimal a Hexadecimal](#decimal-a-hexadecimal)
 6. [Binario a Hexadecimal](#binario-a-hexadecimal)
 7. [Hexadecimal a Binario](#hexadecimal-a-binario)

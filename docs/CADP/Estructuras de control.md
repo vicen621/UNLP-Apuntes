@@ -1,10 +1,10 @@
 # Estructuras de control
 
-1. [Decisión](#decisión)
-2. [Repetición](#repetición)
-3. [Iteración (While)](#iteración-(while))
-4. [Iteración (Repeat)](#iteración-(repeat))
-5. [Selección](#selección)
+1. [Decisión](#decision)
+2. [Repetición](#repeticion)
+3. [Iteración (While)](#iteracion-while)
+4. [Iteración (Repeat)](#iteracion-repeat)
+5. [Selección](#seleccion)
 
 ---
 

@@ -8,7 +8,7 @@ abreviatura: BCD
 ## Desempaquetado
 
 Se usa para comunicaciones entre periféricos
-Cada dígito ocupa un byte, se escribe `1111`<sub>2</sub> adelante de cada dígito, el dígito se escribe en [Binario Sin Signo](Binario-Sin-Signo.md)
+Cada dígito ocupa un byte, se escribe `1111`<sub>2</sub> adelante de cada dígito, el dígito se escribe en [[Binario Sin Signo]]
 
 ### Sin Signo
 
