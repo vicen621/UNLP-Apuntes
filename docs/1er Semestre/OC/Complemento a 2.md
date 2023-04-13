@@ -39,13 +39,11 @@ $$
 3. Le sumas 1<sub>10</sub> (0001<sub>2</sub>) al numero
 
 Ejemplo:
-$$
-\begin{eqnarray}
+$$\begin{eqnarray}
 -7_{10} &=& 0111_{2\ BSS} \\
 &=& 1000_{2\ Ca1} \\
 &=& 1001_{2\ Ca2}
-\end{eqnarray}
-$$
+\end{eqnarray}$$
 
 #### Otra manera de representar mas fácil
 
@@ -53,10 +51,8 @@ $$
 2. Escribís los dígitos de derecha a izquierda hasta escribir el primer 1 que aparezca
 3. Das vuelta los dígitos restantes
 
-$$
-\begin{eqnarray}
+$$\begin{eqnarray}
 -7_{10} &=& 0111_{2\ BSS} \\
 &=& \color{aquamarine}---\color{lightgreen}1 \color{lightgray}\text{ (Escribis hasta el primer 1)}\\
 &=& \color{aquamarine}100\color{lightgreen}1\color{lightgray}_{2\ Ca2} \text{ (Das vuelta el resto de bits)}
-\end{eqnarray}
-$$
+\end{eqnarray}$$
