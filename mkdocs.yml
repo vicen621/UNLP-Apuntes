@@ -1,10 +1,10 @@
 site_name: UNLP Apuntes
+repo_url: https://github.com/vicen621/unlp-apuntes
+repo_name: vicen621/unlp-apuntes
 
 theme:
-    name: 'material'
-    palette:
-    
-
+  name: "material"
+  palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -22,6 +22,8 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
 
 # Extensions
 markdown_extensions:
@@ -56,11 +58,11 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
   - mermaid2
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
