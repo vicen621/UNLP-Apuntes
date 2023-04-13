@@ -1,6 +1,3 @@
----
-status: new
----
 # Plano coordenado
 
 ```functionplot
