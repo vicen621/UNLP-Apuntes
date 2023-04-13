@@ -16,24 +16,24 @@
 
 ## Tabla de equivalencias
 
-|     Decimal     |     Binario      |  Hexadecimal   |
-|:---------------:|:----------------:|:--------------:|
-| 0<sub>10</sub>  | 0000<sub>2</sub> | 0<sub>16</sub> |
-| 1<sub>10</sub>  | 0001<sub>2</sub> | 1<sub>16</sub> |
-| 2<sub>10</sub>  | 0010<sub>2</sub> | 2<sub>16</sub> |
-| 3<sub>10</sub>  | 0011<sub>2</sub> | 3<sub>16</sub> |
-| 4<sub>10</sub>  | 0100<sub>2</sub> | 4<sub>16</sub> |
-| 5<sub>10</sub>  | 0101<sub>2</sub> | 5<sub>16</sub> |
-| 6<sub>10</sub>  | 0110<sub>2</sub> | 6<sub>16</sub> |
-| 7<sub>10</sub>  | 0111<sub>2</sub> | 7<sub>16</sub> |
-| 8<sub>10</sub>  | 1000<sub>2</sub> | 8<sub>16</sub> |
-| 9<sub>10</sub>  | 1001<sub>2</sub> | 9<sub>16</sub> |
-| 10<sub>10</sub> | 1010<sub>2</sub> | A<sub>16</sub> |
-| 11<sub>10</sub> | 1011<sub>2</sub> | B<sub>16</sub> |
-| 12<sub>10</sub> | 1100<sub>2</sub> | C<sub>16</sub> |
-| 13<sub>10</sub> | 1101<sub>2</sub> | D<sub>16</sub> |
-| 14<sub>10</sub> | 1110<sub>2</sub> | E<sub>16</sub> |
-| 15<sub>10</sub> | 1111<sub>2</sub> | F<sub>16</sub> |
+| Decimal | Binario | Hexadecimal |
+|:-------:|:-------:|:-----------:|
+|  0~10~  | 0000~2~ |    0~16~    |
+|  1~10~  | 0001~2~ |    1~16~    |
+|  2~10~  | 0010~2~ |    2~16~    |
+|  3~10~  | 0011~2~ |    3~16~    |
+|  4~10~  | 0100~2~ |    4~16~    |
+|  5~10~  | 0101~2~ |    5~16~    |
+|  6~10~  | 0110~2~ |    6~16~    |
+|  7~10~  | 0111~2~ |    7~16~    |
+|  8~10~  | 1000~2~ |    8~16~    |
+|  9~10~  | 1001~2~ |    9~16~    |
+|  10~10~ | 1010~2~ |    A~16~    |
+|  11~10~ | 1011~2~ |    B~16~    |
+|  12~10~ | 1100~2~ |    C~16~    |
+|  13~10~ | 1101~2~ |    D~16~    |
+|  14~10~ | 1110~2~ |    E~16~    |
+|  15~10~ | 1111~2~ |    F~16~    |
 
 ---
 
@@ -94,7 +94,7 @@ En este caso hay que usar la tabla de Binario Codificado Hexadecimal que es la s
 
 Lo que hay que hacer es dividir el numero en binario en bloques de 4 dígitos, empezando de derecha a izquierda, si el ultimo bloque tiene menos de 4 dígitos se le suman 0 adelante. Una vez tenés todos los bloques, lo buscas en la tabla y le pones el simbolo correspondiente.
 
-Ejemplo: 10100101<sub>2</sub> = A5<sub>16</sub>
+Ejemplo: 10100101~2~ = A5~16~
 
 %% TODO %%
 ## Hexadecimal a Binario

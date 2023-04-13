@@ -17,7 +17,7 @@ Los positivos empiezan con 0
 
 ## Como representar en este sistema
 
-Los positivos se representan igual que en el sistema de [[Binario Sin Signo]], por otro lado los negativos se representan pasandolo al sistema [[Complemento a 1]] y sumandole 1<sub>10</sub> (0001<sub>2</sub>)
+Los positivos se representan igual que en el sistema de [[Binario Sin Signo]], por otro lado los negativos se representan pasandolo al sistema [[Complemento a 1]] y sumandole 1~10~ (0001~2~)
 
 Ejemplo con un sistema de 4 bits:
 
@@ -36,7 +36,7 @@ $$
 
 1. Pasas el decimal a [[Binario Sin Signo]]
 2. Das vuelta todos los bits del numero
-3. Le sumas 1<sub>10</sub> (0001<sub>2</sub>) al numero
+3. Le sumas 1~10~ (0001~2~) al numero
 
 Ejemplo:
 $$\begin{eqnarray}
