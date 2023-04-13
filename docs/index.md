@@ -1,11 +1,3 @@
-# Obsidian Notes
+# UNLP Apuntes
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Apuntes tomados por Vicente García Martí durante sus estudios de la carrera Licenciatura en analisis de sistemas en la Universidad Nacional de La Plata
