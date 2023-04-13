@@ -4,6 +4,8 @@ isSystem: true
 
 # Binario con punto flotante
 
+%%TODO: Terminar de tomar apuntes de esta clase%%
+
 El sistema de binario con punto flotante se usa para representar números muy grandes. Se usa la siguiente ecuación:
 
 $$
