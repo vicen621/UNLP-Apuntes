@@ -28,7 +28,7 @@ El error es la diferencia en valor absoluto entre el numero que quiero represent
 
 Por ejemplo: si quiero representar el 1,2~10~ en un sistema con 1 bit entero y 4 bits decimales quedaría: 1,0011~2~ con un error del 0,0125~10~ o, un error del 1,25%
 
-La formula para calcular el error es: | x - x' |
+La formula para calcular el error es: $|x-x'|$
 
 ---
 
