@@ -62,7 +62,7 @@ $$\begin{eqnarray}
 
 ### Mantisa fraccionaria normalizada
 
-Ya que hay muchas maneras de poder representar un mismo numero con el sistema de Punto flotante se creo la Mantisa Fraccionaria normalizada, con esta representacion la mantisa siempre debe comenzar con $0,1$, de no ser asi no se puede representar el numero.
+Ya que hay muchas maneras de poder representar un mismo numero con el sistema de Punto flotante se creo la Mantisa Fraccionaria normalizada, con esta representacion la mantisa siempre debe comenzar con $\color{cyan}0,1$, de no ser asi no se puede representar el numero.
 
 Se representa de la misma manera que la Mantisa Fraccionaria
 
