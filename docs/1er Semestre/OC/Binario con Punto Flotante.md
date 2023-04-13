@@ -67,7 +67,7 @@ Se representa de la misma manera que la Mantisa Fraccionaria
 
 Ejemplos:
 
-1. 1000101\, 4 bits Mantisa fraccionaria normalizada BSS, 3 exponente BCS
+1. 1000101\. 4 bits Mantisa fraccionaria normalizada BSS, 3 exponente BCS
 
 $$\begin{eqnarray}
 \color{cyan}0,1\color{lightgreen}000\color{lightgray}*2\color{red}^{101} &=& \\
