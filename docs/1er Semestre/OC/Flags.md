@@ -10,9 +10,12 @@ Las ecuaciones en binario tienen flags que te indican el estado del resultado. L
   * N (Negativo): Vale lo mismo que el bit mas significativo
   
   * V (Overflow): Vale 1 solo si: una suma de positivos da negativo, una suma de negativos da positivo, un negativo menos un positivo da positivo o si un positivo menos un negativo da negativo
-  $$
-  +_1++_2=-||-_1+-_2=+||-_1-+_1=+||+_1--_1=-
-  $$
+
+$$
++_1++_2=-||-_1+-_2=+ \\
+-_1-+_1=+||+_1--_1=-
+$$
+ 
 Ejemplo de ecuaciones con sus respectivas flags:
 
   1001 |       9          C = 1, Z = 0, N = 0, V = 1
