@@ -11,6 +11,7 @@ Los negativos empiezan con 0
 Los positivos empiezan con 1
 
 El exceso es una constante que tiene el valor del bit mas significativo. Es decir
+
 $$E=2^{n-1}$$
 
 ---
@@ -23,6 +24,7 @@ $$E=2^{n-1}$$
 2. Se le resta el Exceso
 
 Ejemplo:
+
 $$\begin{eqnarray}
 0100_{2\ Ex2} &=& -4_{10} \\
 \\
