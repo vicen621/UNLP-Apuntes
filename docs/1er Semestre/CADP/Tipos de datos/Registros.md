@@ -6,7 +6,7 @@ Los registros se usan para almacenar informacion bajo una misma variable, algo a
 
 Se definen de la siguiente manera:
 ```pascal
-program example;
+program registros;
 type
 	nombre = record
 		campo1: type;

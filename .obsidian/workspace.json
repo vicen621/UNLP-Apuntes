@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1er Semestre/CADP/Tipos de datos/Tipos de datos.md",
+                "file": "docs/1er Semestre/CADP/Tipos de datos/Arrays - Vectores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1er Semestre/CADP/Tipos de datos/Tipos de datos.md",
+                "file": "docs/1er Semestre/CADP/Tipos de datos/Arrays - Vectores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1er Semestre/CADP/Tipos de datos/Tipos de datos.md",
+                "file": "docs/1er Semestre/CADP/Tipos de datos/Arrays - Vectores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1er Semestre/CADP/Tipos de datos/Tipos de datos.md"
+                "file": "docs/1er Semestre/CADP/Tipos de datos/Arrays - Vectores.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "82f598b2b0a0b557",
   "lastOpenFiles": [
-    "docs/1er Semestre/CADP/Tipos de datos/Arrays - Vectores.md",
     "docs/1er Semestre/CADP/Tipos de datos/Registros.md",
+    "docs/1er Semestre/CADP/Tipos de datos/Arrays - Vectores.md",
+    "docs/1er Semestre/CADP/Tipos de datos/Tipos de datos.md",
     "docs/1er Semestre/OC/Binario Codificado Decimal.md",
     "docs/1er Semestre/OC/Binario con Punto Flotante.md",
     "docs/index.md"
