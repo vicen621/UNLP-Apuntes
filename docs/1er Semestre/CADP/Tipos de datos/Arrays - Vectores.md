@@ -21,3 +21,21 @@ Los vectores, al igual que los [[Registros]] solo tienen una accion directa y es
 
 ## Algoritmos utiles para vectores
 
+### CargarVector
+
+```pascal
+procedure cargarVector(var v: vector; var dimL: integer);
+var
+	entrada: integer;
+begin
+	dimL := 0;
+	readln(entrada);
+	while((entrada <> -1) and (dimL < N)) do begin
+		dimL := dimL + 1;
+		v[dimL] := entrada;
+		readln(entrada);
+	end;
+end;
+```
+
+### 
