@@ -24,16 +24,16 @@ Los vectores, al igual que los [[Registros]] solo tienen una accion directa y es
 ### CargarVector
 
 ```pascal
-procedure cargarVector(var v: vector; var dimL: integer);
+procedure cargarVector(var v: vdatos; var dimL: integer);
 var
-	entrada: integer;
+	val: real;
 begin
 	dimL := 0;
-	readln(entrada);
-	while((entrada <> -1) and (dimL < N)) do begin
+	readln(val);
+	while(val <> 0) and (dimL < cant_datos) do begin
 		dimL := dimL + 1;
-		v[dimL] := entrada;
-		readln(entrada);
+		v[dimL] := val;
+		read(val);
 	end;
 end;
 ```
