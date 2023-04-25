@@ -4,7 +4,7 @@ Los registros se usan para almacenar informacion bajo una misma variable, algo a
 
 ## Definición
 
-Se definen de la siguiente manera:
+Los registros se definen de la siguiente manera:
 ```pascal
 program registros;
 type
