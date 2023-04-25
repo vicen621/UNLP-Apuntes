@@ -30,4 +30,5 @@ Por ejemplo un hashmap.
 | Booleano     | boolean     | Si      | Simple    | true / false                               |
 | Caracter     | char        | Si      | Simple    | 'a', 'b', '1', 'Z'                         |
 | String       | string      | No      | Compuesto | 'Hola', '123'                              |
-| Subrango     | 1..10        | Si      | Simple    | 1..3 = (1,2,3), 'a'..'c' = ('a', 'b', 'c') |
+| Subrango     | 1..10       | Si      | Simple    | 1..3 = (1,2,3), 'a'..'c' = ('a', 'b', 'c') |
+| Registro     | record      | No      | Compuesto | registro.campo1,                                           |
