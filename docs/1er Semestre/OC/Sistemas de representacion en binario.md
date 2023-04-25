@@ -38,6 +38,6 @@ La siguiente tabla muestra los distintos sistemas
 
 ```dataview
 table abreviatura as "Abreviatura", negativos as "Puede representar negativos", rango as "Formula del Rango", formula as "Formula de traspaso"
-from "1er Semestre/OC/Teoria" 
+from "docs/1er Semestre/OC/Sistemas de representacion" 
 where isSystem = true
 ```
