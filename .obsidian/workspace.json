@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Plano coordenado.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Plano coordenado.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Plano coordenado.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Plano coordenado.md"
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "82f598b2b0a0b557",
   "lastOpenFiles": [
+    "docs/1er Semestre/MAT1/Plano coordenado.md",
+    "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
     "docs/1er Semestre/OC/Sistemas de representacion en binario.md",
     "docs/1er Semestre/MAT1/Capitulo 4",
     "docs/1er Semestre/MAT1/Capitulo 3",
