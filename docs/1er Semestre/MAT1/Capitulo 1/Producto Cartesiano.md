@@ -4,7 +4,8 @@ Se describe de la siguiente manera
 
 $$
 \begin{align}
-A = \{1, 2, 3\} \\
-A \times A = (1,1),(1,2),(1,3),(2,1)(2,2)
+&A = \{1, 2, 3\} \\ 
+\\
+	&A \times A = \{(x,y): x \in A \: \wedge y }
 \end{align}
 $$
