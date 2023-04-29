@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md"
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md"
               }
             }
           }
@@ -152,7 +152,7 @@
     "docs/1er Semestre/OC/Sistemas de representacion/Binario con Punto Flotante.md",
     "docs/1er Semestre/OC/Sistemas de representacion/Exceso.md",
     "docs/1er Semestre/OC/Sistemas de representacion/Flags.md",
-    "docs/1er Semestre/MAT1/Capitulo 1/Producto Cartesiano.md",
+    "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
     "docs/1er Semestre/MAT1/Plano coordenado.md",
     "docs/1er Semestre/OC/Sistemas de representacion en binario.md",
     "docs/1er Semestre/MAT1/Capitulo 4",
