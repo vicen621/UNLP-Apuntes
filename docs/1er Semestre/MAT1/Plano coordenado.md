@@ -1,5 +1,7 @@
 # Plano coordenado
 
+El plano coordenado es el 
+
 ```functionplot
 ---
 title: Plano Coordenado
