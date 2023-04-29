@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c4d90e932833ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Distancia entre dos puntos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Distancia entre dos puntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Distancia entre dos puntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md"
+                "file": "docs/1er Semestre/MAT1/Capitulo 1/Distancia entre dos puntos.md"
               }
             }
           }
@@ -147,12 +160,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82f598b2b0a0b557",
+  "active": "0c4d90e932833ed7",
   "lastOpenFiles": [
+    "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
+    "docs/1er Semestre/MAT1/Capitulo 1/Distancia entre dos puntos.md",
     "docs/1er Semestre/OC/Sistemas de representacion/Binario con Punto Flotante.md",
     "docs/1er Semestre/OC/Sistemas de representacion/Exceso.md",
     "docs/1er Semestre/OC/Sistemas de representacion/Flags.md",
-    "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
     "docs/1er Semestre/MAT1/Plano coordenado.md",
     "docs/1er Semestre/OC/Sistemas de representacion en binario.md",
     "docs/1er Semestre/MAT1/Capitulo 4",

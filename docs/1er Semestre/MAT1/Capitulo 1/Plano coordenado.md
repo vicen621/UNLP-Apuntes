@@ -1,7 +1,9 @@
 # Plano coordenado
+
 El plano coordenado asi definidio se llama $\mathbb{R}^2$ y se lee "R dos", es un conjunto y se expresa 
 $\mathbb{R}^2 = \{(x,y): x \in \mathbb{R} \: \wedge y \in \mathbb{R}\}$ es decir, el conjunto de los pares ordenados donde cada componente es un número real.
 
+## Producto cartesiano
 
 El producto cartesiano es una ecuacion aplicable a los conjuntos.
 Se describe de la siguiente manera
@@ -15,4 +17,5 @@ A \times A &= \{(x,y): x \in A \: \wedge y \in A\} \\
 	
 \end{align}
 $$
+Siendo que el [[Plano coordenado#Plano coordenado]] es $\mathbb{R}\times\mathbb{R} = \mathbb{R}^2$
 
