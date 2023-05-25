@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Circunferencias.md",
+                "file": "docs/1er Semestre/CADP/Memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,6 +89,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b36dc2bb1cc7920a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Circunferencias.md",
+                "file": "docs/1er Semestre/CADP/Memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Circunferencias.md",
+                "file": "docs/1er Semestre/CADP/Memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1er Semestre/MAT1/Capitulo 1/Circunferencias.md"
+                "file": "docs/1er Semestre/CADP/Memoria.md"
               }
             }
           }
@@ -174,8 +182,11 @@
   },
   "active": "9ec7ff6f9689c920",
   "lastOpenFiles": [
-    "docs/1er Semestre/MAT1/Capitulo 1/Distancia entre dos puntos.md",
+    "docs/1er Semestre/CADP/Tipos de datos/Punteros.md",
+    "docs/1er Semestre/CADP/Memoria.md",
+    "docs/1er Semestre/CADP/Tipos de datos/Registros.md",
     "docs/1er Semestre/MAT1/Capitulo 1/Circunferencias.md",
+    "docs/1er Semestre/MAT1/Capitulo 1/Distancia entre dos puntos.md",
     "docs/1er Semestre/MAT1/Capitulo 1/Plano coordenado.md",
     "docs/1er Semestre/OC/Sistemas de representacion/Binario con Punto Flotante.md",
     "docs/1er Semestre/OC/Sistemas de representacion/Exceso.md",
@@ -191,7 +202,6 @@
     "docs/1er Semestre/OC/Sistemas de representacion/Complemento a 1.md",
     "docs/1er Semestre/CADP/Tipos de datos/Arrays - Vectores.md",
     "docs/1er Semestre/OC/Sistemas de representacion",
-    "docs/1er Semestre/CADP/Tipos de datos/Registros.md",
     "docs/1er Semestre/CADP/Tipos de datos/Tipos de datos.md",
     "docs/index.md"
   ]
